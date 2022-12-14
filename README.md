@@ -1,1 +1,1 @@
-# musicApp
+# stock-checking
